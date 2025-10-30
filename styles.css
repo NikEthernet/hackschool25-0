@@ -27,7 +27,7 @@ select, input, textarea {
     - Add a bottom margin of 35px
     - Add a padding of 25px to thicken navbar
     */
-    background-color: #f9a857;
+    background-color: #45a7f2;
     display: flex;
     justify-content: space-between;
     align-items: center;
